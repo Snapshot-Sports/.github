@@ -1,1 +1,3 @@
-# .github
+# Snapshot Sports
+
+## Layout
